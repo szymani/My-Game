@@ -1,2 +1,2 @@
-# My-Game
-My first game project
+# The Game
+My first game, university project 
